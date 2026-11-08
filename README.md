@@ -1,4 +1,4 @@
-# Anarcute 简体中文补丁
+# Anarcute 简体中文补丁(ai制作）
 
 给 Unity 游戏 **Anarcute**（Steam AppID `390720`）做的简体中文汉化补丁。
 
