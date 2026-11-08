@@ -13,7 +13,7 @@
 
 ## 下载
 
-到 [Releases](../../releases) 页面下载最新的 `anarcute_zh_patch_v2.zip`（约 68MB）。
+到 [Releases](../../releases) 页面下载最新的 `anarcute_zh_patch_v1.9.0.zip`（约 68MB）。
 
 > 仓库里只有脚本，不含游戏资源；`resources.assets` 体积超过 GitHub 单文件 100MB 上限，所以放在 Release 附件里。
 
