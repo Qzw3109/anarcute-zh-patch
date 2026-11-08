@@ -24,7 +24,7 @@
 3. 双击 **`一键安装.bat`**。它会：
    - 从注册表和 `libraryfolders.vdf` 自动找到 Anarcute 的安装目录；
    - 结束 `anarcute` / `steam` 进程；
-   - 把原 `resources.assets` 备份为 `resources.assets.zhbak`；
+   - 把原版 `resources.assets` 备份为 `resources.assets.zhbak`；
    - 覆盖补丁并校验字节数；
    - 把 `appmanifest_390720.acf` 里本游戏的语言从 `english` 改成 `schinese`。
 4. 启动 Steam，再启动游戏。
