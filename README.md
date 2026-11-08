@@ -44,7 +44,7 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1 -GameDir "D:\Steam\steama
 ## 已知限制
 
 - 教程里的按键提示（`Left Stick to move`、`Move with WASD`）、Logo、城市名 `Tokyo`、关卡名 `Tsubomi` 等是烘焙进贴图/预制体的图片，不在 CSV 里，仍是英文。
-- 只做了简体中文；繁体（`tchinese`）列未处理。
+- 只做了简体中文
 - 游戏更新后 `resources.assets` 会被 Steam 覆盖，需要重新运行安装脚本。
 
 ## 仓库内容
